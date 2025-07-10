@@ -7,6 +7,12 @@ model = genai.GenerativeModel("gemini-2.0-flash")
 
 chat = model.start_chat()
 
-response = chat.send_message("What is the capital of France?")
+print("Welcome to Gemini 2.0 Flash Chatbot!")
 
-print("Gemini : ",response.text)
+while True:
+    user_input = input("You: ")
+    if user_input.lower() == "exit":
+        print("Exiting chat.")
+        break
+    response = chat.send_message(user_input)
+    print("Gemini : ", response.text)
