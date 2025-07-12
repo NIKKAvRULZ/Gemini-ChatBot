@@ -1,6 +1,6 @@
-![Gemini Banner](https://cdn.mos.cms.futurecdn.net/gHfBJ6FBHKnLbW36hEDvgV.png)
-
 # 💬 Gemini 2.0 Flash Chatbot
+
+![Gemini Banner](https://cdn.mos.cms.futurecdn.net/gHfBJ6FBHKnLbW36hEDvgV.png)
 
 This is a simple terminal-based chatbot powered by **Google Gemini 2.0 Flash** using the `google.generativeai` Python SDK. It enables users to interact with Gemini AI directly from the command line in a continuous chat format.
 
