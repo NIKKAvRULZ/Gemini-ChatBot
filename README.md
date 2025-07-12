@@ -94,15 +94,9 @@ while True:
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## 📬 Contact
 
-For questions, reach out at [your-email@example.com](mailto:your-email@example.com) or connect via [LinkedIn](https://linkedin.com/in/your-profile).
+For questions, reach out at [your-email@example.com](mailto:nithika151@gmail.com) or connect via [LinkedIn](https://www.linkedin.com/in/nithika-perera-519197254).
 
 ---
 
