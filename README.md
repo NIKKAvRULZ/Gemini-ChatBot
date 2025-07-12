@@ -1,6 +1,6 @@
 # 💬 Gemini 2.0 Flash Chatbot
 
-![Banner](Frontend/src/assets/DineSwift.png)
+![Banner](Gemini 2.0 Flash Chatbot.png)
 
 This is a simple terminal-based chatbot powered by **Google Gemini 2.0 Flash** using the `google.generativeai` Python SDK. It enables users to interact with Gemini AI directly from the command line in a continuous chat format.
 
